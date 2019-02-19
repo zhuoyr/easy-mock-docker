@@ -1,3 +1,8 @@
+### 创建目录
+```
+mkdir -p ./data/db ./data/redis ./logs
+```
+
 ### docker-compose 文件内容
 ```
 version: "3.3"
